@@ -1,0 +1,73 @@
+.container {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+.box {
+  background-color: grey;
+  width: 30rem;
+  height: 32rem;
+  margin-top: 100px;
+  margin-left: 400px;
+}
+.header {
+  width: 23.5rem;
+  background-color: dimgray;
+  height: 80px;
+  margin-left: 35px;
+  padding-right: 20px;
+  margin-top: 30px;
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+}
+.but {
+  background-color: white;
+  color: black;
+  width: 10rem;
+  height: 50px;
+  margin-top: 25px;
+  margin-left: 20px;
+  border-block: 40rem;
+  box-shadow: black;
+}
+.book {
+  background-color: brown;
+  color: white;
+  width: 10rem;
+  height: 50px;
+  margin-top: 25px;
+  margin-left: 20px;
+  border-block: 40rem;
+  box-shadow: black;
+}
+.book1 {
+  flex-direction: row;
+  display: flex;
+  width: 26rem;
+  margin-left: 17px;
+}
+.book2 {
+  flex-direction: row;
+  display: flex;
+  width: 26rem;
+  margin-left: 17px;
+}
+.book3 {
+  flex-direction: row;
+  display: flex;
+  width: 26rem;
+  margin-left: 17px;
+}
+.book4 {
+  flex-direction: row;
+  display: flex;
+  width: 26rem;
+  margin-left: 17px;
+}
+.book5 {
+  flex-direction: row;
+  display: flex;
+  width: 26rem;
+  margin-left: 17px;
+}
